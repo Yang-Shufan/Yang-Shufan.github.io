@@ -1,62 +1,32 @@
 [
   {
-    "order": 1,
-    "language": "en",
-    "apa": "Yang, S., & Zhou, L. (2026). Offsetting Administrative Burden: AI Chatbot Assistance in Digital Public Service Encounters.",
-    "authors_display": "Shufan Yang; Lingyi Zhou",
-    "english_title": "",
-    "english_journal": "",
-    "corresponding_author": "",
-    "article_pdf": "",
-    "article_url": "",
-    "visible": true
-  },
-  {
-    "order": 2,
-    "language": "en",
     "apa": "Yang, S. (2026). The Greater Good Takes a Back Seat? Claim-Motive Cues, Processing Costs, and Frontline Prioritization.",
-    "authors_display": "Shufan Yang",
-    "english_title": "",
-    "english_journal": "",
-    "corresponding_author": "",
-    "article_pdf": "",
-    "article_url": "",
-    "visible": true
-  },
-  {
-    "order": 3,
     "language": "en",
-    "apa": "Yang, S., & Zhou, L. (2026). What Makes Public-Sector Job Offers Attractive, and to Whom? Evidence from a Conjoint Experiment in China.",
-    "authors_display": "Shufan Yang; Lingyi Zhou",
-    "english_title": "",
-    "english_journal": "",
-    "corresponding_author": "",
-    "article_pdf": "",
-    "article_url": "",
+    "order": 2,
+    "authors_display": "Shufan Yang",
     "visible": true
   },
   {
-    "order": 4,
-    "language": "zh",
+    "apa": "Yang, S., & Zhou, L. (2026). What Makes Public-Sector Job Offers Attractive, and to Whom? Evidence from a Conjoint Experiment in China.",
+    "language": "en",
+    "order": 3,
+    "authors_display": "Shufan Yang; Lingyi Zhou",
+    "visible": true
+  },
+  {
     "apa": "周凌一, & 杨书帆. (2026). 府际数字化协同何以持续深化？——注意力驱动的技术—组织动态调适.",
+    "language": "zh",
+    "order": 4,
     "authors_display": "Lingyi Zhou; Shufan Yang",
     "english_title": "Intergovernmental Digital Collaboration and Technological–Organizational Adaptation",
-    "english_journal": "",
-    "corresponding_author": "",
-    "article_pdf": "",
-    "article_url": "",
     "visible": true
   },
   {
-    "order": 5,
-    "language": "zh",
     "apa": "周凌一, & 杨书帆. (2026). 互构与错构：平台赋能基层协同治理的二重性.",
+    "language": "zh",
+    "order": 5,
     "authors_display": "Lingyi Zhou; Shufan Yang",
     "english_title": "The Dual Nature of Platform-Enabled Collaborative Governance at the Grassroots",
-    "english_journal": "",
-    "corresponding_author": "",
-    "article_pdf": "",
-    "article_url": "",
     "visible": true
   }
 ]
