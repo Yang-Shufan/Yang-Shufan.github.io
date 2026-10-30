@@ -1,68 +1,60 @@
 [
   {
-    "order": 1,
     "year": "2026",
     "language": "en",
     "name_original": "International Research Society for Public Management (IRSPM) Annual Conference",
-    "name_english": "",
-    "host_institution": "",
     "city": "Perth",
     "country": "Australia",
+    "order": 1,
     "visible": true
   },
   {
-    "order": 2,
     "year": "2025",
     "language": "en",
     "name_original": "Public Management Research Conference (PMRC)",
-    "name_english": "",
-    "host_institution": "",
     "city": "Seoul",
     "country": "South Korea",
+    "order": 2,
     "visible": true
   },
   {
-    "order": 3,
     "year": "2025",
     "language": "zh",
     "name_original": "中国公共管理学术年会",
     "name_english": "China Public Administration Annual Conference",
-    "host_institution": "",
     "city": "Dalian",
     "country": "China",
+    "order": 3,
     "visible": true
   },
   {
-    "order": 4,
     "year": "2024",
     "language": "zh",
-    "name_original": "第十二届华人公共管理学者研讨会",
-    "name_english": "12th Chinese Public Administration Scholars Conference",
-    "host_institution": "",
+    "name_original": "华人公共管理学者研讨会",
+    "name_english": "Chinese Public Administration Scholars Conference",
     "city": "Shanghai",
     "country": "China",
+    "order": 4,
     "visible": true
   },
   {
-    "order": 5,
     "year": "2024",
     "language": "zh",
     "name_original": "“公共服务与政策创新研究”学术研讨会",
     "name_english": "Workshop on Public Services and Policy Innovation",
-    "host_institution": "Wuhan University",
     "city": "Wuhan",
     "country": "China",
+    "order": 5,
     "visible": true
   },
   {
-    "order": 6,
     "year": "2023",
     "language": "zh",
     "name_original": "中国公共管理学术年会",
     "name_english": "China Public Administration Annual Conference",
-    "host_institution": "",
     "city": "Shanghai",
     "country": "China",
+    "order": 6,
     "visible": true
   }
 ]
