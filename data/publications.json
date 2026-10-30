@@ -1,0 +1,50 @@
+[
+  {
+    "order": 1,
+    "language": "zh",
+    "apa": "杨书帆, & 周凌一. (2026). 招录传播策略与公共部门吸引力——一项混合研究. 公共管理与政策评论, 15(5), 40–57.",
+    "authors_display": "Shufan Yang; Lingyi Zhou",
+    "corresponding_author": "Lingyi Zhou",
+    "english_title": "Recruitment Communication Strategies and Public-Sector Attractiveness: A Mixed-Methods Study",
+    "english_journal": "Public Administration and Policy Review",
+    "article_pdf": "assets/articles/recruitment-communication-strategies.pdf",
+    "article_url": "",
+    "visible": true
+  },
+  {
+    "order": 2,
+    "language": "zh",
+    "apa": "周凌一, & 杨书帆. (2025). 城市治理何以数字化转型——一个系统性文献综述. 上海城市管理, 34(1), 44–56.",
+    "authors_display": "Lingyi Zhou; Shufan Yang",
+    "corresponding_author": "Lingyi Zhou",
+    "english_title": "How Does Urban Governance Undergo Digital Transformation? A Systematic Literature Review",
+    "english_journal": "Shanghai Urban Management",
+    "article_pdf": "assets/articles/urban-governance-digital-transformation.pdf",
+    "article_url": "",
+    "visible": true
+  },
+  {
+    "order": 3,
+    "language": "zh",
+    "apa": "周凌一, & 杨书帆. (2024). 政务服务“跨域通办”的实践模式和协同机理——以长三角地区为例. 电子政务, (11), 68–81.",
+    "authors_display": "Lingyi Zhou; Shufan Yang",
+    "corresponding_author": "Lingyi Zhou",
+    "english_title": "Practices and Coordination Mechanisms of Cross-Regional Government Services: Evidence from the Yangtze River Delta",
+    "english_journal": "E-Government",
+    "article_pdf": "assets/articles/cross-regional-government-services.pdf",
+    "article_url": "",
+    "visible": true
+  },
+  {
+    "order": 4,
+    "language": "zh",
+    "apa": "周凌一, & 杨书帆. (2024). 生产安全事故致因机理与防控体系构建的“环圆逻辑”——基于39份生产安全事故调查报告的文本分析. 中国应急管理科学, (9), 51–65.",
+    "authors_display": "Lingyi Zhou; Shufan Yang",
+    "corresponding_author": "Shufan Yang",
+    "english_title": "The “Ring-and-Circle Logic” of Workplace Accident Causation and Prevention: A Textual Analysis of 39 Accident Investigation Reports",
+    "english_journal": "Journal of China Emergency Management Science",
+    "article_pdf": "assets/articles/workplace-accident-prevention.pdf",
+    "article_url": "",
+    "visible": true
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "chinese_name": "杨书帆",
+  "english_name": "Shufan Yang",
+  "hero_name": "Shufan Yang · 杨书帆",
+  "role": "Ph.D. Student in Public Policy",
+  "school": "School of Public Policy and Management",
+  "university": "Tsinghua University",
+  "email": "yang_shufan@foxmail.com",
+  "hero_line_one": "State–Citizen Interaction",
+  "hero_line_two": "Government Action",
+  "hero_subtitle": "In the age of intelligent technologies.",
+  "research_tags": [
+    "Administrative Burden",
+    "Street-Level Bureaucracy",
+    "Policy Support",
+    "Collaborative Governance",
+    "Behavioral Public Administration"
+  ],
+  "about_paragraphs": [
+    "I am a Ph.D. student in Public Policy at the [School of Public Policy and Management, Tsinghua University](https://www.sppm.tsinghua.edu.cn/english/). My research focuses on **state–citizen interaction and government action in the age of digital and intelligent technologies**.",
+    "I am particularly interested in how information communicated by governments shapes citizens’ perceptions and choices, and how public officials interpret, prioritize, and respond to citizens’ demands. I also examine how digital technologies reshape government behavior, organizational practices, and intergovernmental coordination.",
+    "Methodologically, I am especially interested in experimental methods, AI-assisted text coding and measurement, and the integration of artificial intelligence into experimental research."
+  ],
+  "portrait": "assets/portrait.webp",
+  "cv": "assets/Shufan_Yang_CV.pdf",
+  "footer_note": "Built with care and curiosity.",
+  "section_titles": {
+    "about": "About Me",
+    "education": "Education",
+    "publications": "Publications",
+    "working_papers": "Working Papers",
+    "talks": "Conferences & Invited Talks",
+    "activities": "Professional Activities"
+  },
+  "cv_button_text": "Download CV",
+  "hero_background": "assets/hero/riverside-sunset.jpg"
+}

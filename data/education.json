@@ -1,0 +1,26 @@
+[
+  {
+    "order": 1,
+    "period": "2025 – Present",
+    "university": "Tsinghua University",
+    "degree": "Ph.D. Student in Public Policy",
+    "school": "School of Public Policy and Management",
+    "city": "Beijing",
+    "country": "China",
+    "url": "https://www.tsinghua.edu.cn/en/",
+    "abbreviation": "THU",
+    "visible": true
+  },
+  {
+    "order": 2,
+    "period": "2021 – 2025",
+    "university": "Fudan University",
+    "degree": "B.A. in Public Administration",
+    "school": "School of International Relations and Public Affairs",
+    "city": "Shanghai",
+    "country": "China",
+    "url": "https://www.fudan.edu.cn/en/",
+    "abbreviation": "FDU",
+    "visible": true
+  }
+]
