@@ -1,20 +1,11 @@
 [
   {
+    "role": "Executive Editor & Head of the “Dialogue” Series",
+    "organization": "公共管理共同体",
+    "role_original": "执行主编 & 对话佳作负责人",
+    "organization_original": "Public Management Community",
+    "period": "Present",
     "order": 1,
-    "period": "Present",
-    "role": "Executive Editor",
-    "organization": "Public Management Community",
-    "role_original": "执行主编",
-    "organization_original": "公共管理共同体",
-    "visible": true
-  },
-  {
-    "order": 2,
-    "period": "Present",
-    "role": "Head of the “Dialogue with Outstanding Scholarship” Series",
-    "organization": "Public Management Community",
-    "role_original": "对话佳作栏目负责人",
-    "organization_original": "公共管理共同体",
     "visible": true
   }
 ]
