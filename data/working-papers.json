@@ -2,29 +2,29 @@
   {
     "apa": "Yang, S. (2026). The Greater Good Takes a Back Seat? Claim-Motive Cues, Processing Costs, and Frontline Prioritization.",
     "language": "en",
-    "order": 2,
+    "order": 1,
     "authors_display": "Shufan Yang",
     "visible": true
   },
   {
     "apa": "Yang, S., & Zhou, L. (2026). What Makes Public-Sector Job Offers Attractive, and to Whom? Evidence from a Conjoint Experiment in China.",
     "language": "en",
-    "order": 3,
+    "order": 2,
     "authors_display": "Shufan Yang; Lingyi Zhou",
     "visible": true
   },
   {
-    "apa": "周凌一, & 杨书帆. (2026). 府际数字化协同何以持续深化？——注意力驱动的技术—组织动态调适.",
+    "apa": "周凌一, & 杨书帆. (2026). 府际数字化协同何以持续深化？——技术—组织动态调适的注意力机制",
     "language": "zh",
-    "order": 4,
+    "order": 3,
     "authors_display": "Lingyi Zhou; Shufan Yang",
-    "english_title": "Intergovernmental Digital Collaboration and Technological–Organizational Adaptation",
+    "english_title": "How Does Intergovernmental Digital Collaboration Deepen over Time? An Attention-Based Explanation of Dynamic Technology–Organization Adaptation",
     "visible": true
   },
   {
     "apa": "周凌一, & 杨书帆. (2026). 互构与错构：平台赋能基层协同治理的二重性.",
     "language": "zh",
-    "order": 5,
+    "order": 4,
     "authors_display": "Lingyi Zhou; Shufan Yang",
     "english_title": "The Dual Nature of Platform-Enabled Collaborative Governance at the Grassroots",
     "visible": true
