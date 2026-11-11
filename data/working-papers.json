@@ -4,7 +4,7 @@
     "language": "en",
     "order": 1,
     "authors_display": "Shufan Yang",
-    "visible": true
+    "visible": false
   },
   {
     "apa": "Yang, S., & Zhou, L. (2026). What Makes Public-Sector Job Offers Attractive, and to Whom? Evidence from a Conjoint Experiment in China.",
@@ -27,6 +27,6 @@
     "order": 4,
     "authors_display": "Lingyi Zhou; Shufan Yang",
     "english_title": "The Dual Nature of Platform-Enabled Collaborative Governance at the Grassroots",
-    "visible": true
+    "visible": false
   }
 ]
